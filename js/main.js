@@ -10,3 +10,6 @@ openModal.onclick = function(){
 closeModal.onclick = function() {
    modalWindow.style.display = 'none'; 
 }
+modalWindow.onclick = function() {
+   modalWindow.style.display = 'none'; 
+}
