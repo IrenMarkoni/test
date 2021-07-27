@@ -1,5 +1,5 @@
 
-let openModal = document.querySelectorAll('.open_modal');
+let openModal = document.querySelector('.open_modal');
 let modalWindow = document.querySelector('.modal_window');
 let closeModal = document.getElementById('modal_box_close');
 
