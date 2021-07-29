@@ -116,6 +116,9 @@
     @media (max-width: 380px) {
       line-height: 100%;
     }
+    @media (max-width: 320px) {
+      font-size: 40px;
+    }
   }
 }
 .container {
